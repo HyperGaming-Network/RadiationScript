@@ -1,5 +1,5 @@
 # RadiationScript
-Original RadiationScript on Cakescript base for GMod on HGN from 2007 Onwards
+Original RadiationScript on for GMod on HGN from 2007 Onwards before we moved to a Nexus ( clockwork base ) and then later on my custom WorldScript 2 base
 
 I developed this for the HyperGaming Network community from 2006 - 2009/2010 Before creating a new script.
 
