@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"name"		"RadiationScript"
+	"version"	"1.0"
+
+	"author_name"	"SilverKnight"
+	"author_email"	""
+	"author_url"	"www.hypergamer.net"
+	
+	"info"		"RadiationScript"
+	"hide"		"0"
+}
