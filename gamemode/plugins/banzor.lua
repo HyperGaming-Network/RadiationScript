@@ -19,10 +19,10 @@ RAD.BanTable = {}
 local function AddBanList( steamid, reason )
 table.insert( RAD.BanTable, { steamid = steamid, reason = reason } );
 end
-AddBanList( "STEAM_0:0:15049318", "Leecher." ) -- jerry for being a thief and a fag
+AddBanList( "STEAM_0:0:15049318", "Leecher." ) -- jerry for being a thief
 AddBanList( "STEAM_0:1:16279839", "Spamming." ) --jerrys Bitch
 AddBanList( "STEAM_0:0:9240947", "CannotFly" ) --sugary treat gone bad
 AddBanList( "STEAM_0:0:17264910", "snaggedsomepoop" ) --sniggers
 AddBanList( "STEAM_0:0:13872882", "fairyrape" ) --cakes on the house
 AddBanList( "STEAM_0:1:14952330", "hungryleechers" ) --hippos
-AddBanList( "STEAM_0:1:21452466", "hgnelitehatefankid" ) --uptight fag
+AddBanList( "STEAM_0:1:21452466", "hgnelitehatefankid" ) --uptight
